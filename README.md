@@ -1,5 +1,7 @@
 ## 데이터 과학을 위한 개발환경
 
+![R 툴체인](fig/r-toolchain.png)
+
 윈도우 환경에서 RStudio를 비롯한 개발환경을 구축하려면, 먼저 로컬 클라이언트 컴퓨터의 환경을 다음과 같이 준비하고 나서, [가상상자(VirtualBox)](https://www.virtualbox.org/)와 [부랑자(Vagrant)](https://www.vagrantup.com/)를 설치한다.
 
 

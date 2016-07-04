@@ -22,3 +22,31 @@ codename = $(lsb_release -c -s)
 exit
 R
 exit
+ls
+exit
+ls
+./latest-R.sh 
+R
+./latest-R.sh 
+sudo ./latest-R.sh 
+sudo ./latest-R.sh 
+./latest-R.sh 
+bash ./latest-R.sh 
+./latest-R.sh 
+./latest-R.sh 
+./latest-R.sh 
+sudo ./latest-R.sh 
+R
+exit
+ls
+pwd
+su rstudio
+su rstudio
+su rstudio
+su rstudio
+cd /home/rstudio/
+ls
+passwd rstudio
+su root
+su root
+exit
